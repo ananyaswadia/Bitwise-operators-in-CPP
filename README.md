@@ -1,10 +1,10 @@
 # Bitwise-operators-in-CPP
 
-Aim: To study and implement bitwise operators in C++.
+🎯Aim: To study and implement bitwise operators in C++.
 
-Tools: C++ IDE / Visual Studio Code.
+⚙️Tools: C++ IDE / Visual Studio Code.
 
-Theory:
+💡Theory:
 Bitwise operators in C++ are used to perform bit-level operations on integral data types (like int, char, long, etc.). These operators treat values as sequences of bits (0s and 1s) rather than decimal or hexadecimal numbers.
 
 Types of Bitwise Operators:
@@ -16,4 +16,4 @@ Types of Bitwise Operators:
 6. '>>' - Right Shift	- Shifts bits to the right (drops bits from the right).
 
 
-Conclusion: Bitwise operators work on binary functions and we learnt how to implement them in C++.
+✅Conclusion: Bitwise operators work on binary functions and we learnt how to implement them in C++.
