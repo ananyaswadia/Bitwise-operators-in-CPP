@@ -22,3 +22,12 @@ int main(){
    
     return 0;
 } 
+
+
+/*   OUTPUT
+Enter a number: 78
+Enter the bit position you want to reset: 5
+Your number is:110
+Enter bit position you want to reset: 4
+Your number after resetting is: 78
+*/
