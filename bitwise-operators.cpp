@@ -17,3 +17,16 @@ int main (){
 
     return 0;
 }
+
+
+/*   OUTPUT
+Enter first number: 67
+Enter second number: 89
+a AND b: 65
+a OR b: 91
+a XOR b: 26
+NOT b: -90
+NOT a: -68
+LEFT SHIFT a: 134
+RIGHT SHIFT b: 44
+*/
