@@ -32,5 +32,6 @@ How do these Bitwise Operators work :
 6. '>>' - Right Shift	- Shifts bits to the right (drops bits from the right).
 
 
+
 ## Conclusion
 Bitwise operators work on binary functions and we learnt how to implement them in C++.
